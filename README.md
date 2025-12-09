@@ -20,6 +20,9 @@
 
 ## Скриншоты
 
+### Окно приветствия
+<p align="center"><img src="screens/welcome.png" width="750"></p>
+
 ### Конфигурации
 <p align="center"><img src="screens/configs.png" width="750"></p>
 
