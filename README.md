@@ -21,19 +21,19 @@
 ## Скриншоты
 
 ### Конфигурации
-<p align="center"><img src="screens/configs.jpg" width="750"></p>
+<p align="center"><img src="screens/configs.png" width="750"></p>
 
 ### Меню опций
-<p align="center"><img src="screens/options.jpg" width="750"></p>
+<p align="center"><img src="screens/options.png" width="750"></p>
 
 ### Графика и пресеты
-<p align="center"><img src="screens/graphics.jpg" width="750"></p>
+<p align="center"><img src="screens/graphics.png" width="750"></p>
 
 ### Бинды
-<p align="center"><img src="screens/binds.jpg" width="750"></p>
+<p align="center"><img src="screens/binds.png" width="750"></p>
 
 ### Настройки приложения
-<p align="center"><img src="screens/settings.jpg" width="750"></p>
+<p align="center"><img src="screens/settings.png" width="750"></p>
 
 ---
 
