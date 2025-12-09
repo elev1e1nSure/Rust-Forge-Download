@@ -11,8 +11,8 @@
 ## Скачать программу
 
 <p align="center">
-  <a href="https://github.com/elev1e1nSure/Rust-Forge/releases/latest" target="_blank">
-    <img src="https://img.shields.io/badge/Скачать%20последний%20релиз-%F0%9F%94%8D-orange?style=for-the-badge" />
+  <a href="https://github.com/elev1e1nSure/Rust-Forge/releases/latest">
+    <img src="https://img.shields.io/badge/— Скачать релиз —-1f1f1f?style=for-the-badge&logo=download&logoColor=E08B30&labelColor=0d0d0d" />
   </a>
 </p>
 
