@@ -20,23 +20,32 @@
 
 ## Скриншоты
 
-### Окно приветствия
-<p align="center"><img src="screens/welcome.png" width="750"></p>
-
-### Конфигурации
-<p align="center"><img src="screens/configs.png" width="750"></p>
-
-### Меню опций
-<p align="center"><img src="screens/options.png" width="750"></p>
-
-### Графика и пресеты
-<p align="center"><img src="screens/graphics.png" width="750"></p>
-
-### Бинды
-<p align="center"><img src="screens/binds.png" width="750"></p>
-
-### Настройки приложения
-<p align="center"><img src="screens/settings.png" width="750"></p>
+<table>
+  <tr>
+    <td>
+      <img src="screens/welcome.png" width="420" style="border-radius: 8px;">
+    </td>
+    <td>
+      <img src="screens/configs.png" width="420" style="border-radius: 8px;">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="screens/options.png" width="420" style="border-radius: 8px;">
+    </td>
+    <td>
+      <img src="screens/graphics.png" width="420" style="border-radius: 8px;">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="screens/binds.png" width="420" style="border-radius: 8px;">
+    </td>
+    <td>
+      <img src="screens/settings.png" width="420" style="border-radius: 8px;">
+    </td>
+  </tr>
+</table>
 
 ---
 
