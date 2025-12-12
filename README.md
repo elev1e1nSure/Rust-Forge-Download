@@ -11,7 +11,7 @@
 ## Скачать программу
 
 <p align="center">
-  <a href="https://github.com/elev1e1nSure/Rust-Forge/releases/latest">
+  <a href="https://github.com/elev1e1nSure/Rust-Forge-Download/releases/latest">
     <img src="https://img.shields.io/badge/Скачать%20релиз-EA6A22?style=for-the-badge&logo=download&logoColor=white" />
   </a>
 </p>
